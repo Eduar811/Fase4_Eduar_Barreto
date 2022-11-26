@@ -1,0 +1,88 @@
+C:\Users\LINAV\OneDrive\Desktop\Ejercicio_Vb_3\Fase4_Bd_Multimedia\Fase4_Bd_Multimedia\obj\Debug\Fase4_Bd_Multimedia.vbproj.AssemblyReference.cache
+C:\Users\LINAV\OneDrive\Desktop\Ejercicio_Vb_3\Fase4_Bd_Multimedia\Fase4_Bd_Multimedia\obj\Debug\Fase4_Bd_Multimedia.Base_Datos_Estudiantes.resources
+C:\Users\LINAV\OneDrive\Desktop\Ejercicio_Vb_3\Fase4_Bd_Multimedia\Fase4_Bd_Multimedia\obj\Debug\Fase4_Bd_Multimedia.Form1.resources
+C:\Users\LINAV\OneDrive\Desktop\Ejercicio_Vb_3\Fase4_Bd_Multimedia\Fase4_Bd_Multimedia\obj\Debug\Fase4_Bd_Multimedia.Resources.resources
+C:\Users\LINAV\OneDrive\Desktop\Ejercicio_Vb_3\Fase4_Bd_Multimedia\Fase4_Bd_Multimedia\obj\Debug\Fase4_Bd_Multimedia.vbproj.GenerateResource.cache
+C:\Users\LINAV\OneDrive\Desktop\Ejercicio_Vb_3\Fase4_Bd_Multimedia\Fase4_Bd_Multimedia\obj\Debug\Fase4_Bd_Multimedia.vbproj.CoreCompileInputs.cache
+C:\Users\LINAV\OneDrive\Desktop\Ejercicio_Vb_3\Fase4_Bd_Multimedia\Fase4_Bd_Multimedia\bin\Debug\Fase4_Bd_Multimedia.exe.config
+C:\Users\LINAV\OneDrive\Desktop\Ejercicio_Vb_3\Fase4_Bd_Multimedia\Fase4_Bd_Multimedia\bin\Debug\Fase4_Bd_Multimedia.exe
+C:\Users\LINAV\OneDrive\Desktop\Ejercicio_Vb_3\Fase4_Bd_Multimedia\Fase4_Bd_Multimedia\bin\Debug\Fase4_Bd_Multimedia.pdb
+C:\Users\LINAV\OneDrive\Desktop\Ejercicio_Vb_3\Fase4_Bd_Multimedia\Fase4_Bd_Multimedia\bin\Debug\Fase4_Bd_Multimedia.xml
+C:\Users\LINAV\OneDrive\Desktop\Ejercicio_Vb_3\Fase4_Bd_Multimedia\Fase4_Bd_Multimedia\obj\Debug\Fase4_Bd_Multimedia.exe
+C:\Users\LINAV\OneDrive\Desktop\Ejercicio_Vb_3\Fase4_Bd_Multimedia\Fase4_Bd_Multimedia\obj\Debug\Fase4_Bd_Multimedia.xml
+C:\Users\LINAV\OneDrive\Desktop\Ejercicio_Vb_3\Fase4_Bd_Multimedia\Fase4_Bd_Multimedia\obj\Debug\Fase4_Bd_Multimedia.pdb
+C:\Users\LINAV\OneDrive\Desktop\Ejercicio_Vb_3\Fase4_Bd_Multimedia\Fase4_Bd_Multimedia\bin\Debug\Videos\realidad aumentada_2.mp4
+C:\Users\LINAV\OneDrive\Desktop\Ejercicio_Vb_3\Fase4_Bd_Multimedia\Fase4_Bd_Multimedia\bin\Debug\Interop.WMPLib.dll
+C:\Users\LINAV\OneDrive\Desktop\Ejercicio_Vb_3\Fase4_Bd_Multimedia\Fase4_Bd_Multimedia\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\LINAV\OneDrive\Desktop\Ejercicio_Vb_3\Fase4_Bd_Multimedia\Fase4_Bd_Multimedia\obj\Debug\Interop.WMPLib.dll
+C:\Users\LINAV\OneDrive\Desktop\Ejercicio_Vb_3\Fase4_Bd_Multimedia\Fase4_Bd_Multimedia\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\LINAV\OneDrive\Desktop\Ejercicio_Vb_3\Fase4_Bd_Multimedia\Fase4_Bd_Multimedia\obj\Debug\Fase4_Bd_Multimedia.vbproj.ResolveComReference.cache
+C:\Users\LINAV\OneDrive\Desktop\Ejercicio_Vb_3\Fase4_Bd_Multimedia\Fase4_Bd_Multimedia\obj\Debug\Fase4_Bd_Multimedia.Tematica_1.resources
+C:\Users\LINAV\OneDrive\Desktop\Ejercicio_Vb_3\Fase4_Bd_Multimedia\Fase4_Bd_Multimedia\obj\Debug\Fase4_Bd_Multimedia.Tematica_2.resources
+C:\Users\LINAV\OneDrive\Desktop\Ejercicio_Vb_3\Fase4_Bd_Multimedia\Fase4_Bd_Multimedia\obj\Debug\Fase4_Bd_Multimedia.Tematica_3.resources
+C:\Users\LINAV\OneDrive\Desktop\Ejercicio_Vb_4\Fase4_Bd_Multimedia\Fase4_Bd_Multimedia\obj\Debug\Fase4_Bd_Multimedia.vbproj.AssemblyReference.cache
+C:\Users\LINAV\OneDrive\Desktop\Ejercicio_Vb_4\Fase4_Bd_Multimedia\Fase4_Bd_Multimedia\obj\Debug\Interop.WMPLib.dll
+C:\Users\LINAV\OneDrive\Desktop\Ejercicio_Vb_4\Fase4_Bd_Multimedia\Fase4_Bd_Multimedia\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\LINAV\OneDrive\Desktop\Ejercicio_Vb_4\Fase4_Bd_Multimedia\Fase4_Bd_Multimedia\obj\Debug\Fase4_Bd_Multimedia.vbproj.ResolveComReference.cache
+C:\Users\LINAV\OneDrive\Desktop\Ejercicio_Vb_4\Fase4_Bd_Multimedia\Fase4_Bd_Multimedia\obj\Debug\Fase4_Bd_Multimedia.Base_Datos_Estudiantes.resources
+C:\Users\LINAV\OneDrive\Desktop\Ejercicio_Vb_4\Fase4_Bd_Multimedia\Fase4_Bd_Multimedia\obj\Debug\Fase4_Bd_Multimedia.Form1.resources
+C:\Users\LINAV\OneDrive\Desktop\Ejercicio_Vb_4\Fase4_Bd_Multimedia\Fase4_Bd_Multimedia\obj\Debug\Fase4_Bd_Multimedia.inicio.resources
+C:\Users\LINAV\OneDrive\Desktop\Ejercicio_Vb_4\Fase4_Bd_Multimedia\Fase4_Bd_Multimedia\obj\Debug\Fase4_Bd_Multimedia.Resources.resources
+C:\Users\LINAV\OneDrive\Desktop\Ejercicio_Vb_4\Fase4_Bd_Multimedia\Fase4_Bd_Multimedia\obj\Debug\Fase4_Bd_Multimedia.Tematica_1.resources
+C:\Users\LINAV\OneDrive\Desktop\Ejercicio_Vb_4\Fase4_Bd_Multimedia\Fase4_Bd_Multimedia\obj\Debug\Fase4_Bd_Multimedia.Tematica_2.resources
+C:\Users\LINAV\OneDrive\Desktop\Ejercicio_Vb_4\Fase4_Bd_Multimedia\Fase4_Bd_Multimedia\obj\Debug\Fase4_Bd_Multimedia.Tematica_3.resources
+C:\Users\LINAV\OneDrive\Desktop\Ejercicio_Vb_4\Fase4_Bd_Multimedia\Fase4_Bd_Multimedia\obj\Debug\Fase4_Bd_Multimedia.vbproj.GenerateResource.cache
+C:\Users\LINAV\OneDrive\Desktop\Ejercicio_Vb_4\Fase4_Bd_Multimedia\Fase4_Bd_Multimedia\obj\Debug\Fase4_Bd_Multimedia.vbproj.CoreCompileInputs.cache
+C:\Users\LINAV\OneDrive\Desktop\Ejercicio_Vb_4\Fase4_Bd_Multimedia\Fase4_Bd_Multimedia\obj\Debug\Fase4_Bd_Multimedia.exe
+C:\Users\LINAV\OneDrive\Desktop\Ejercicio_Vb_4\Fase4_Bd_Multimedia\Fase4_Bd_Multimedia\obj\Debug\Fase4_Bd_Multimedia.xml
+C:\Users\LINAV\OneDrive\Desktop\Ejercicio_Vb_4\Fase4_Bd_Multimedia\Fase4_Bd_Multimedia\obj\Debug\Fase4_Bd_Multimedia.pdb
+C:\Users\LINAV\OneDrive\Desktop\Ejercicio_Vb_4\Fase4_Bd_Multimedia\Fase4_Bd_Multimedia\bin\Debug\Videos\realidad aumentada_2.mp4
+C:\Users\LINAV\OneDrive\Desktop\Ejercicio_Vb_4\Fase4_Bd_Multimedia\Fase4_Bd_Multimedia\bin\Debug\Fase4_Bd_Multimedia.exe.config
+C:\Users\LINAV\OneDrive\Desktop\Ejercicio_Vb_4\Fase4_Bd_Multimedia\Fase4_Bd_Multimedia\bin\Debug\Fase4_Bd_Multimedia.exe
+C:\Users\LINAV\OneDrive\Desktop\Ejercicio_Vb_4\Fase4_Bd_Multimedia\Fase4_Bd_Multimedia\bin\Debug\Fase4_Bd_Multimedia.pdb
+C:\Users\LINAV\OneDrive\Desktop\Ejercicio_Vb_4\Fase4_Bd_Multimedia\Fase4_Bd_Multimedia\bin\Debug\Fase4_Bd_Multimedia.xml
+C:\Users\LINAV\OneDrive\Desktop\Ejercicio_Vb_4\Fase4_Bd_Multimedia\Fase4_Bd_Multimedia\bin\Debug\Interop.WMPLib.dll
+C:\Users\LINAV\OneDrive\Desktop\Ejercicio_Vb_4\Fase4_Bd_Multimedia\Fase4_Bd_Multimedia\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Eduar Barreto\Desktop\Unad semestre II 2022\Visual Basic Basico\Visual basic\Ejercicio_Vb_4\Fase4_Bd_Multimedia\Fase4_Bd_Multimedia\bin\Debug\Videos\realidad aumentada_2.mp4
+C:\Users\Eduar Barreto\Desktop\Unad semestre II 2022\Visual Basic Basico\Visual basic\Ejercicio_Vb_4\Fase4_Bd_Multimedia\Fase4_Bd_Multimedia\bin\Debug\Fase4_Bd_Multimedia.exe.config
+C:\Users\Eduar Barreto\Desktop\Unad semestre II 2022\Visual Basic Basico\Visual basic\Ejercicio_Vb_4\Fase4_Bd_Multimedia\Fase4_Bd_Multimedia\bin\Debug\Fase4_Bd_Multimedia.exe
+C:\Users\Eduar Barreto\Desktop\Unad semestre II 2022\Visual Basic Basico\Visual basic\Ejercicio_Vb_4\Fase4_Bd_Multimedia\Fase4_Bd_Multimedia\bin\Debug\Fase4_Bd_Multimedia.pdb
+C:\Users\Eduar Barreto\Desktop\Unad semestre II 2022\Visual Basic Basico\Visual basic\Ejercicio_Vb_4\Fase4_Bd_Multimedia\Fase4_Bd_Multimedia\bin\Debug\Fase4_Bd_Multimedia.xml
+C:\Users\Eduar Barreto\Desktop\Unad semestre II 2022\Visual Basic Basico\Visual basic\Ejercicio_Vb_4\Fase4_Bd_Multimedia\Fase4_Bd_Multimedia\bin\Debug\Interop.WMPLib.dll
+C:\Users\Eduar Barreto\Desktop\Unad semestre II 2022\Visual Basic Basico\Visual basic\Ejercicio_Vb_4\Fase4_Bd_Multimedia\Fase4_Bd_Multimedia\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Eduar Barreto\Desktop\Unad semestre II 2022\Visual Basic Basico\Visual basic\Ejercicio_Vb_4\Fase4_Bd_Multimedia\Fase4_Bd_Multimedia\obj\Debug\Fase4_Bd_Multimedia.vbproj.AssemblyReference.cache
+C:\Users\Eduar Barreto\Desktop\Unad semestre II 2022\Visual Basic Basico\Visual basic\Ejercicio_Vb_4\Fase4_Bd_Multimedia\Fase4_Bd_Multimedia\obj\Debug\Interop.WMPLib.dll
+C:\Users\Eduar Barreto\Desktop\Unad semestre II 2022\Visual Basic Basico\Visual basic\Ejercicio_Vb_4\Fase4_Bd_Multimedia\Fase4_Bd_Multimedia\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Eduar Barreto\Desktop\Unad semestre II 2022\Visual Basic Basico\Visual basic\Ejercicio_Vb_4\Fase4_Bd_Multimedia\Fase4_Bd_Multimedia\obj\Debug\Fase4_Bd_Multimedia.vbproj.ResolveComReference.cache
+C:\Users\Eduar Barreto\Desktop\Unad semestre II 2022\Visual Basic Basico\Visual basic\Ejercicio_Vb_4\Fase4_Bd_Multimedia\Fase4_Bd_Multimedia\obj\Debug\Fase4_Bd_Multimedia.Base_Datos_Estudiantes.resources
+C:\Users\Eduar Barreto\Desktop\Unad semestre II 2022\Visual Basic Basico\Visual basic\Ejercicio_Vb_4\Fase4_Bd_Multimedia\Fase4_Bd_Multimedia\obj\Debug\Fase4_Bd_Multimedia.Form1.resources
+C:\Users\Eduar Barreto\Desktop\Unad semestre II 2022\Visual Basic Basico\Visual basic\Ejercicio_Vb_4\Fase4_Bd_Multimedia\Fase4_Bd_Multimedia\obj\Debug\Fase4_Bd_Multimedia.inicio.resources
+C:\Users\Eduar Barreto\Desktop\Unad semestre II 2022\Visual Basic Basico\Visual basic\Ejercicio_Vb_4\Fase4_Bd_Multimedia\Fase4_Bd_Multimedia\obj\Debug\Fase4_Bd_Multimedia.Resources.resources
+C:\Users\Eduar Barreto\Desktop\Unad semestre II 2022\Visual Basic Basico\Visual basic\Ejercicio_Vb_4\Fase4_Bd_Multimedia\Fase4_Bd_Multimedia\obj\Debug\Fase4_Bd_Multimedia.Tematica_1.resources
+C:\Users\Eduar Barreto\Desktop\Unad semestre II 2022\Visual Basic Basico\Visual basic\Ejercicio_Vb_4\Fase4_Bd_Multimedia\Fase4_Bd_Multimedia\obj\Debug\Fase4_Bd_Multimedia.Tematica_2.resources
+C:\Users\Eduar Barreto\Desktop\Unad semestre II 2022\Visual Basic Basico\Visual basic\Ejercicio_Vb_4\Fase4_Bd_Multimedia\Fase4_Bd_Multimedia\obj\Debug\Fase4_Bd_Multimedia.Tematica_3.resources
+C:\Users\Eduar Barreto\Desktop\Unad semestre II 2022\Visual Basic Basico\Visual basic\Ejercicio_Vb_4\Fase4_Bd_Multimedia\Fase4_Bd_Multimedia\obj\Debug\Fase4_Bd_Multimedia.vbproj.GenerateResource.cache
+C:\Users\Eduar Barreto\Desktop\Unad semestre II 2022\Visual Basic Basico\Visual basic\Ejercicio_Vb_4\Fase4_Bd_Multimedia\Fase4_Bd_Multimedia\obj\Debug\Fase4_Bd_Multimedia.vbproj.CoreCompileInputs.cache
+C:\Users\Eduar Barreto\Desktop\Unad semestre II 2022\Visual Basic Basico\Visual basic\Ejercicio_Vb_4\Fase4_Bd_Multimedia\Fase4_Bd_Multimedia\obj\Debug\Fase4_Bd_Multimedia.exe
+C:\Users\Eduar Barreto\Desktop\Unad semestre II 2022\Visual Basic Basico\Visual basic\Ejercicio_Vb_4\Fase4_Bd_Multimedia\Fase4_Bd_Multimedia\obj\Debug\Fase4_Bd_Multimedia.xml
+C:\Users\Eduar Barreto\Desktop\Unad semestre II 2022\Visual Basic Basico\Visual basic\Ejercicio_Vb_4\Fase4_Bd_Multimedia\Fase4_Bd_Multimedia\obj\Debug\Fase4_Bd_Multimedia.pdb
+C:\Users\Eduar Barreto\Desktop\Fase4_Eduar_Barreto\Fase4_Bd_Multimedia\bin\Debug\Fase4_Bd_Multimedia.exe.config
+C:\Users\Eduar Barreto\Desktop\Fase4_Eduar_Barreto\Fase4_Bd_Multimedia\bin\Debug\Fase4_Bd_Multimedia.exe
+C:\Users\Eduar Barreto\Desktop\Fase4_Eduar_Barreto\Fase4_Bd_Multimedia\bin\Debug\Fase4_Bd_Multimedia.pdb
+C:\Users\Eduar Barreto\Desktop\Fase4_Eduar_Barreto\Fase4_Bd_Multimedia\bin\Debug\Fase4_Bd_Multimedia.xml
+C:\Users\Eduar Barreto\Desktop\Fase4_Eduar_Barreto\Fase4_Bd_Multimedia\bin\Debug\Interop.WMPLib.dll
+C:\Users\Eduar Barreto\Desktop\Fase4_Eduar_Barreto\Fase4_Bd_Multimedia\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Eduar Barreto\Desktop\Fase4_Eduar_Barreto\Fase4_Bd_Multimedia\obj\Debug\Fase4_Bd_Multimedia.vbproj.AssemblyReference.cache
+C:\Users\Eduar Barreto\Desktop\Fase4_Eduar_Barreto\Fase4_Bd_Multimedia\obj\Debug\Interop.WMPLib.dll
+C:\Users\Eduar Barreto\Desktop\Fase4_Eduar_Barreto\Fase4_Bd_Multimedia\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Eduar Barreto\Desktop\Fase4_Eduar_Barreto\Fase4_Bd_Multimedia\obj\Debug\Fase4_Bd_Multimedia.vbproj.ResolveComReference.cache
+C:\Users\Eduar Barreto\Desktop\Fase4_Eduar_Barreto\Fase4_Bd_Multimedia\obj\Debug\Fase4_Bd_Multimedia.Base_Datos_Estudiantes.resources
+C:\Users\Eduar Barreto\Desktop\Fase4_Eduar_Barreto\Fase4_Bd_Multimedia\obj\Debug\Fase4_Bd_Multimedia.Form1.resources
+C:\Users\Eduar Barreto\Desktop\Fase4_Eduar_Barreto\Fase4_Bd_Multimedia\obj\Debug\Fase4_Bd_Multimedia.inicio.resources
+C:\Users\Eduar Barreto\Desktop\Fase4_Eduar_Barreto\Fase4_Bd_Multimedia\obj\Debug\Fase4_Bd_Multimedia.Resources.resources
+C:\Users\Eduar Barreto\Desktop\Fase4_Eduar_Barreto\Fase4_Bd_Multimedia\obj\Debug\Fase4_Bd_Multimedia.Tematica_2.resources
+C:\Users\Eduar Barreto\Desktop\Fase4_Eduar_Barreto\Fase4_Bd_Multimedia\obj\Debug\Fase4_Bd_Multimedia.vbproj.GenerateResource.cache
+C:\Users\Eduar Barreto\Desktop\Fase4_Eduar_Barreto\Fase4_Bd_Multimedia\obj\Debug\Fase4_Bd_Multimedia.vbproj.CoreCompileInputs.cache
+C:\Users\Eduar Barreto\Desktop\Fase4_Eduar_Barreto\Fase4_Bd_Multimedia\obj\Debug\Fase4_Bd_Multimedia.exe
+C:\Users\Eduar Barreto\Desktop\Fase4_Eduar_Barreto\Fase4_Bd_Multimedia\obj\Debug\Fase4_Bd_Multimedia.xml
+C:\Users\Eduar Barreto\Desktop\Fase4_Eduar_Barreto\Fase4_Bd_Multimedia\obj\Debug\Fase4_Bd_Multimedia.pdb
